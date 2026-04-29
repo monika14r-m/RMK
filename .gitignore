@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files
+*.jpg
+*.png
+*.jpeg
+*.bmp
+*.tiff
+*.gif
+
+# Notebook checkpoints
+.ipynb_checkpoints/
